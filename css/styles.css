@@ -11422,3 +11422,18 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+.princ{
+  text-align: justify;
+  margin: 10px 10px 10px 0px;
+  padding: 10px 10px 10px 0px;
+}
+.exp{
+  width: 690px;
+  text-align: justify;
+}
+.interests{
+  text-align: justify;
+  font-size: 18px;
+  margin: 10px 10px 10px 0px;
+  padding: 10px 10px 10px 0px;
+}
