@@ -11428,7 +11428,7 @@ section.resume-section .resume-section-content {
   padding: 10px 10px 10px 0px;
 }
 .exp{
-  width: 85%;
+  width: 100%;
   text-align: justify;
 }
 .interests{
@@ -11436,4 +11436,13 @@ section.resume-section .resume-section-content {
   font-size: 18px;
   margin: 10px 10px 10px 0px;
   padding: 10px 10px 10px 0px;
+}
+.ver-cv{
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #f0f0f0;
+}
+.ver-cv:hover{
+  color: #0dcaf0;
 }
